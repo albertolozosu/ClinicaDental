@@ -1,0 +1,16 @@
+H:\Visual\ClinicaDental\bin\Debug\ClinicaDental.exe.config
+H:\Visual\ClinicaDental\bin\Debug\ClinicaDental.exe
+H:\Visual\ClinicaDental\bin\Debug\ClinicaDental.pdb
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.csprojAssemblyReference.cache
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.Properties.Resources.resources
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.csproj.GenerateResource.cache
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.exe
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.pdb
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.Login.resources
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.Main.resources
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.FuncionesEmpleado.resources
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.FuncionesMedico.resources
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.FuncionesPaciente.resources
+H:\Visual\ClinicaDental\bin\Debug\LozanoLibraryEq.dll
+H:\Visual\ClinicaDental\bin\Debug\LozanoLibraryEq.pdb
+H:\Visual\ClinicaDental\obj\Debug\ClinicaDental.csproj.CopyComplete
